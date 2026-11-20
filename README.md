@@ -2,12 +2,12 @@
 
 A growing collection of Python scripts and mini-projects built to practice core programming concepts, logic building, and problem-solving.
 
-## 🛠️ Tech Stack & Requirements
+## Tech Stack & Requirements
 
 * **Language:** Python 3.10+
 * **Libraries:** Python Standard Library (unless noted otherwise in specific scripts)
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository:**
    ```bash
@@ -24,13 +24,13 @@ A growing collection of Python scripts and mini-projects built to practice core 
    python filename.py
    ```
 
-## 🎯 Learning Goals
+## Learning Goals
 
 * Write clean, readable, and bug-free Python code.
 * Master control flow, data structures, and algorithms.
 * Practice edge-case testing, input validation, and problem-solving.
 
-## 📈 Progress
+## Progress
 
 This repository is continuously updated as I learn new Python features and build more projects.
 
