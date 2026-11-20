@@ -34,6 +34,6 @@ A growing collection of Python scripts and mini-projects built to practice core 
 
 This repository is continuously updated as I learn new Python features and build more projects.
 
-## 📝 License
+## License
 
 This project is open-source and available for anyone learning Python.
